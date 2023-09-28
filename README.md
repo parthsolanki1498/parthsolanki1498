@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsolanki1498&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsolanki1498&theme=dracula)
 <!--
 **parthsolanki1498/parthsolanki1498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
